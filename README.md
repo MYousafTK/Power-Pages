@@ -20,6 +20,54 @@ Project Stack: Power Pages, Dataverse, Power Automate
 
 Project Description: Managed Cellular Services is a project with extensive customizations beyond the default capabilities of Power Pages. To meet these needs, we employed JavaScript, Liquid, XML, and APIs. The project involves intricate table relationships with fields that auto-populate based on user lookup selections. Additionally, we developed a summary report rendered using JavaScript and Liquid. Power Automate flows handle email notifications upon form submissions and complex calculations within the system. 
 
+My Account
+
+![image](https://github.com/MYousafTK/Power-Pages/assets/128382787/74a7bb84-3e48-4302-9a3f-eac6defb5faf)
+
+Active Lines
+
+![image](https://github.com/MYousafTK/Power-Pages/assets/128382787/0c47e342-c026-4dd5-9f0b-e73070921e16)
+
+Billing
+
+![image](https://github.com/MYousafTK/Power-Pages/assets/128382787/e525d2eb-2d05-434a-acf3-a9d7e3c434fc)
+
+Submit a Request
+
+![image](https://github.com/MYousafTK/Power-Pages/assets/128382787/1e5764ad-7107-4bc1-a6a7-0fef0624d3f0)
+
+Company Account
+
+![image](https://github.com/MYousafTK/Power-Pages/assets/128382787/98cf59e6-5923-43c4-ac83-593926f0a818)
+
+Line of Service
+
+![image](https://github.com/MYousafTK/Power-Pages/assets/128382787/d94e76af-b970-4773-87fa-5857cefecc35)
+
+Admin
+
+![image](https://github.com/MYousafTK/Power-Pages/assets/128382787/78d3859c-bdaf-41aa-ba66-3528e127b3d0)
+
+Manage Lines
+
+![image](https://github.com/MYousafTK/Power-Pages/assets/128382787/edbd849a-9f63-4904-89b5-f81b7e60e53a)
+
+Create Line Form with autofill fields 
+
+ ![image](https://github.com/MYousafTK/Power-Pages/assets/128382787/6d4e2cfa-b2ab-4e16-8ee6-fc38c68b366f)
+
+ Cost Summary
+
+ ![image](https://github.com/MYousafTK/Power-Pages/assets/128382787/2a979acd-b0d3-432e-999b-c572343fe4ab)
+
+ Register Local User
+
+ ![image](https://github.com/MYousafTK/Power-Pages/assets/128382787/8e8cb5fa-7235-4764-ad12-fb6d902a2285)
+
+Sign In
+
+![image](https://github.com/MYousafTK/Power-Pages/assets/128382787/879ce908-3c46-40f4-b8e4-bec977e166fa)
+
 # 3- BlueGoveTech Ticket Management 
 
 Project Name: BlueGoveTech 
@@ -29,6 +77,30 @@ Project Link:
 Project Stack: Power Pages, Dataverse, Power Automate 
 
 Project Description: BlueGovTech focuses on efficient ticket management. Clients can publicly submit their issues via a form stored in Dataverse. Upon submission, clients receive an email containing a unique ticket number for reference. They can later check their ticket status using this ticket number through a Power Automate flow. Admins have access to view all tickets and can assign them to team members for resolution. Assigned members receive email notifications with detailed ticket information to facilitate resolution. 
+
+
+Submit New Tickets
+
+![image](https://github.com/MYousafTK/Power-Pages/assets/128382787/0bcee029-ff38-436f-97df-bffb8811a7f2)
+
+User Review
+
+![image](https://github.com/MYousafTK/Power-Pages/assets/128382787/7785c074-87e8-46e0-8c1a-42647dfb8b7b)
+
+Submitted Tickets
+
+![image](https://github.com/MYousafTK/Power-Pages/assets/128382787/24f374c5-3585-41dc-af4f-a01dbfbb03dc)
+
+
+Review Ticketes
+
+![image](https://github.com/MYousafTK/Power-Pages/assets/128382787/849381bf-2f8c-4fd7-a202-a654dfe9217a)
+
+Sign In
+
+![image](https://github.com/MYousafTK/Power-Pages/assets/128382787/60a8a0ed-1f29-4b22-b050-7b87d59a5615)
+
+
 
 # 4- Data Race 
 
