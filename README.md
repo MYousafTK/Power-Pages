@@ -111,3 +111,35 @@ Project Link:
 Project Stack: Power Pages, Power Virtual Agent, Dataverse, Power Automate 
 
 Project Description: In DataRace, we've integrated PVA (Power Virtual Agents) into our Power Pages site. What makes it special is that we can directly chat with ChatGPT using a Power Automate flow. Additionally, we've implemented custom styling to enhance the user experience. 
+
+# 5- SMC Kanban Board
+
+Project Name: SMC Kanban Board 
+
+Project Link:  
+
+Project Stack: Power Pages, Dataverse, Html, CSS, Js, Liquid
+
+Project Description: The goal of this project was to create a task management app similar to a GitHub board for Sterling Medical Corporation.
+
+Here's what we did:
+
+- Used Power Pages to create a custom web template that matches the client's branding.
+- Used Liquid code to create a navigation menu on the left side and made it look good with custom styling.
+- Built the entire app using a custom approach with Power Pages.
+
+Note: The project was later changed to a canvas app based on feedback from the client and our team because it was only for their internal users.
+
+Home
+
+![SMCHome](https://github.com/MYousafTK/Power-Pages/assets/128382787/14e2560e-07b5-4d75-ae6e-43ebb9355750)
+
+
+# 6- Five Guys
+
+This is a demo page to showcase my custom Power Pages capabilities.
+
+![FG-Dashboard-1](https://github.com/MYousafTK/Power-Pages/assets/128382787/5a27b6d7-73b6-4f17-92f1-1efd9e738280)
+
+![FG-Dashboard-2](https://github.com/MYousafTK/Power-Pages/assets/128382787/cfe37db8-e64e-470b-b03f-5596c2855c68)
+
